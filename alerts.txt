@@ -1,0 +1,41 @@
+[HIGH] Possible brute-force attack
+IP: 192.168.1.15
+Failed attempts: 8
+First attempt: 2026-09-23 10:01:05
+Last attempt: 2026-09-23 10:02:11
+Accounts targeted: admin, backup, guest, root, test
+
+[MEDIUM] Possible brute-force attack
+IP: 192.168.1.55
+Failed attempts: 5
+First attempt: 2026-09-23 11:05:00
+Last attempt: 2026-09-23 11:06:00
+Accounts targeted: admin
+
+[HIGH] Possible password spraying
+IP: 192.168.1.15
+Failed attempts: 8
+First attempt: 2026-09-23 10:01:05
+Last attempt: 2026-09-23 10:02:11
+Accounts targeted: admin, backup, guest, root, test
+
+[MEDIUM] Possible password spraying
+IP: 10.0.0.44
+Failed attempts: 5
+First attempt: 2026-09-23 10:10:00
+Last attempt: 2026-09-23 10:11:24
+Accounts targeted: alex, jordan, maya, sam, taylor
+
+[MEDIUM] Possible password spraying
+IP: 10.0.0.77
+Failed attempts: 4
+First attempt: 2026-09-23 11:20:05
+Last attempt: 2026-09-23 11:21:05
+Accounts targeted: liam, nina, omar, priya
+
+[HIGH] Possible account compromise
+IP: 172.16.0.9
+Username: finance
+Failed attempts before success: 3
+Successful login time: 2026-09-23 10:26:15
+
